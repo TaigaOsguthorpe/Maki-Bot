@@ -1,8 +1,7 @@
 # Maki-Bot 5.1
-A discord bot written in Python with discord.py
+A discord bot written in Python with discord.py rewrite
 
-
-# Project goals
+### Project goals
 
 - Create a customisable discord bot with a console style interface
 - To better my understanding of Python and programing in general
