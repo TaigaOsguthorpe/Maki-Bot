@@ -1,6 +1,5 @@
 import discord
 import bot_token
-import time
 import sys
 import subprocess
 import os
