@@ -8,4 +8,6 @@ A discord bot written in Python with discord.py rewrite
 
 
 ## Notes
-Python 3.6 is the only officially supported python version for this project at this current time.
+Linux is the only officially supported OS for this project at this current time. (It might work on Windows and/or macOS)
+**Python Version >= 3.6** are the only supported versions of python for this project.
+Python versions that are supported might change with new versions.
