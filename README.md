@@ -8,5 +8,5 @@ A discord bot written in Python with discord.py rewrite
 
 
 ## Notes
-Linux is the only officially supported OS for this project at this current time. (It might work on Windows and/or macOS)
-**Python Version >= 3.6** is required.
+- Linux is the only officially supported OS for this project at this current time. (It might work on Windows and/or macOS)
+- **Python Version >= 3.6** is required.
